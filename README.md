@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @suryateja81
+- 👀 I’m interested in  coding...
+- 🌱 I’m currently learning  python.....
+- 📫 How to reach me  is  my mail id :suryateja9110@gmail.com...
+
+<!---
+suryateja81/suryateja81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
